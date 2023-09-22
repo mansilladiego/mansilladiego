@@ -1,59 +1,43 @@
 <h1 align="center">¡Hi, i am Diego Mansilla! 👋</h1>
 
-Soy un Ingeniero en Conectividad y Redes con una apasionante trayectoria en el mundo de la informática y las telecomunicaciones. Mi constante sed de conocimiento me lleva a explorar nuevas tecnologías y desafíos, y en septiembre de 2023, estoy emocionado de anunciar que habré completado con éxito el curso de Aplicaciones Full Stack Java Trainee.
+### About Me:
 
-Me considero un eterno aprendiz y siempre estoy en búsqueda de oportunidades para mejorar mis habilidades. Mi próximo objetivo es obtener la certificación CCNA de CISCO, un paso más en mi camino de crecimiento profesional.
+💻 Engineer in Connectivity and Networks
+🚀 Technology Enthusiast
+📚 Lifelong Learner
+📖 Next Goal: Cisco CCNA Certification
+🌐 Exploring the exciting world of programming
+📧 Contact me: diegomansilla33@gmail.com
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/diego-mansillagarrido)
 
-En mi perfil de GitHub, encontrarás una variedad de proyectos que reflejan mi pasión por la programación y las redes. Estoy emocionado por lo que el futuro tiene reservado y por las oportunidades de colaboración y aprendizaje que pueda encontrar en esta comunidad.
+### Featured Projects
 
-¡Conéctate conmigo y juntos exploremos el emocionante mundo de la tecnología!
+1. [Proyect 1](https://github.com/mansilladiego/MIPrimerSpringDiego)
+### School Management System
 
-### Proyectos Destacados
+This project is a School Management System developed using the Spring Framework. The system consists of four main entities: User, Teacher, Student, and Course. Each entity is managed through a complete set of Spring components, including controllers, entities, repositories, rest controllers, services, and service implementations.
 
-1. [Proyecto 1](https://github.com/mansilladiego/MIPrimerSpringDiego)
-   ### Sistema de Gestión Escolar
+**Key Features:**
 
-     Este proyecto es un Sistema de Gestión Escolar desarrollado utilizando Spring Framework. El sistema consta de cuatro entidades principales: Usuario, Profesor,      Alumno y Curso. Cada entidad se gestiona a través de un conjunto completo de componentes de Spring, incluyendo controllers, entities, repositories,     
-     restcontrollers, services y service implementations.
-     
-     **Funcionalidades Destacadas:**
+- **User Management:** Allows the creation, editing, and viewing of user data, including teachers and students.
 
-      - **Gestión de Usuarios:** Permite la creación, edición y visualización de datos de usuarios, incluyendo profesores y alumnos.
+- **Course Administration:** Facilitates course management, teacher assignment, and tracking of enrolled students.
 
-      - **Administración de Cursos:** Facilita la gestión de cursos, asignación de profesores y seguimiento de alumnos inscritos.
+This project is a showcase of my experience in developing applications using cutting-edge technologies like Spring. I'm excited to share this implementation and to continue exploring new opportunities in the world of programming.
 
-     Este proyecto es una muestra de mi experiencia en el desarrollo de aplicaciones utilizando tecnologías de vanguardia como Spring. Estoy emocionado de 
-     compartir esta implementación y de seguir explorando nuevas oportunidades en el mundo de la programación.
+2. [Proyect 2](https://github.com/mansilladiego/VeterinariaAlphaOmega)
+### Veterinary Clinic Management System
 
+This project is a Veterinary Clinic Management System developed using the Spring Framework. The system focuses on the management of four key entities: Pet, Owner, Veterinarian, and User. Each entity is handled through a complete set of Spring components, including controllers, entities, repositories, rest controllers, services, and service implementations.
 
-2. [Proyecto 2](https://github.com/mansilladiego/VeterinariaAlphaOmega)
-   ### Sistema de Gestión de Clínica Veterinaria
+**Key Features:**
 
-     Este proyecto es un Sistema de Gestión de Clínica Veterinaria desarrollado utilizando Spring Framework. El sistema se centra en la gestión de cuatro entidades      clave: Mascota, Propietario, Veterinario y Usuario. Cada entidad se administra a través de un conjunto completo de componentes de Spring, incluyendo          
-     controllers, entities, repositories, restcontrollers, services y service implementations.
+- **Pet Registration:** Allows pet owners to register their pets, including health information and contact details.
 
-     **Funcionalidades Destacadas:**
+- **Owner Management:** Facilitates the administration of pet owners, their personal data, and their relationships with the pets.
 
-      - **Registro de Mascotas:** Permite a los propietarios registrar a sus mascotas, incluyendo información de salud y datos de contacto.
+- **Veterinary Consultations:** Provides a system for tracking veterinary consultations and medical treatments.
 
-      - **Gestión de Propietarios:** Facilita la administración de propietarios de mascotas, sus datos personales y sus relaciones con las mascotas.
+This project reflects my experience in developing management applications using state-of-the-art technologies like Spring. I'm excited to present this implementation and to continue exploring new opportunities in the field of programming.
 
-      - **Consultas Veterinarias:** Ofrece un sistema de seguimiento de consultas y tratamientos médicos por parte de veterinarios.
-
-     Este proyecto refleja mi experiencia en el desarrollo de aplicaciones de gestión utilizando tecnologías de última generación como Spring. Estoy emocionado de 
-     presentar esta implementación y de continuar explorando nuevas oportunidades en el campo de la programación.
-
-### Habilidades
-
-- HTML
-- Java
-- SQL
-
-### Enlaces
-
-- [LinkedIn](https://www.linkedin.com/in/diego-mansillagarrido)
-
-### Contacto
-
-Puedes contactarme en: diegomansilla33@gmail.com
 
