@@ -2,13 +2,13 @@
 
 ### About Me:
 
-💻 Engineer in Connectivity and Networks
-🚀 Technology Enthusiast
-📚 Lifelong Learner
-📖 Next Goal: Cisco CCNA Certification
-🌐 Exploring the exciting world of programming
-📧 Contact me: diegomansilla33@gmail.com
-🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/diego-mansillagarrido)
+- 💻 Engineer in Connectivity and Networks
+- 🚀 Technology Enthusiast
+- 📚 Lifelong Learner
+- 📖 Next Goal: Cisco CCNA Certification
+- 🌐 Exploring the exciting world of programming
+- 📧 Contact me: diegomansilla33@gmail.com
+- 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/diego-mansillagarrido)
 
 ### Featured Projects
 
