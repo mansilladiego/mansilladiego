@@ -10,7 +10,7 @@
 - 📧 Contact me: **diegomansilla33@gmail.com**
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/diego-mansillagarrido)
 - - I’m currently working on:
-    - :earth_americas: I'm Co-Founder at BuyTec. <a href="https://www.buytec.cl"
+    - :earth_americas: I'm Co-Founder at BuyTec. <a href="https://www.buytec.cl" target="_blank"><img align="center" src="https://buytec.cl/wp-content/uploads/2022/03/Logo-png-Amarillo-Azul-1024x270.png" height="30" width="30"></a>
 
 <h3 align="left">Languages and Tools :bowtie::</h3>
     <p align="left"> <a href="#" target="_blank"> <img
