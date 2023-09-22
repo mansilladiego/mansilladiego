@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi, i am Diego Mansilla! 👋</h1>
+<h1 align="center">¡Hi, I am Diego Mansilla! 👋</h1>
 
 ### About Me:
 
