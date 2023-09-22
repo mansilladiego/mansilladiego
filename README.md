@@ -2,7 +2,7 @@
 
 ### About Me:
 
-- ⌨️ Engineer in Connectivity and Networks
+- 💻 Engineer in Connectivity and Networks
 - 🚀 Technology Enthusiast
 - 📚 Lifelong Learner
 - 📖 Next Goal: Cisco CCNA Certification
