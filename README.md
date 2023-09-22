@@ -9,6 +9,8 @@
 - 🌐 Exploring the exciting world of programming
 - 📧 Contact me: **diegomansilla33@gmail.com**
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/diego-mansillagarrido)
+- - I’m currently working on:
+    - :earth_americas: I'm Co-Founder at BuyTec. <a href="https://www.buytec.cl"
 
 <h3 align="left">Languages and Tools :bowtie::</h3>
     <p align="left"> <a href="#" target="_blank"> <img
