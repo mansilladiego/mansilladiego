@@ -1,4 +1,4 @@
-## <p align="center">¡Hi, i am Diego Mansilla! 👋</p>
+<center>## ¡Hi, i am Diego Mansilla! 👋</center>
 
 Soy un Ingeniero en Conectividad y Redes con una apasionante trayectoria en el mundo de la informática y las telecomunicaciones. Mi constante sed de conocimiento me lleva a explorar nuevas tecnologías y desafíos, y en septiembre de 2023, estoy emocionado de anunciar que habré completado con éxito el curso de Aplicaciones Full Stack Java Trainee.
 
