@@ -17,7 +17,7 @@
                 src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
                 height="40" margin-right="3px"/> </a> </a> <a href="https://www.mysql.com/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"
-                width="55" height="40" margin-right="3px"/> </a>
+                width="55" height="40" margin-right="3px"/> </a></p>
 
 ### Featured Projects
 
