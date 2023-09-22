@@ -10,6 +10,25 @@
 - 📧 Contact me: **diegomansilla33@gmail.com**
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/diego-mansillagarrido)
 
+h3 align="left">Languages and Tools :bowtie::</h3>
+    <p align="left"> <a href="#" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
+                width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
+                height="40" margin-right="3px"/> </a> <!-- <a href="#" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40"
+                height="40" margin-right="3px"/> </a><a href="#" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40"
+                height="40" margin-right="3px"/> </a><a href="#" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40"
+                height="40" margin-right="3px"/> </a></a> --> <a href="#" target="_blank"> <img
+                src="https://img.icons8.com/color/452/amazon-web-services.png" alt="AWS" width="40"
+                height="40" margin-right="3px"/> </a> <!-- <a href="https://www.linux.org/" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux"
+                width="40" height="40" margin-right="3px"/> </a> --> </a> <a href="https://www.mysql.com/" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"
+                width="55" height="40" margin-right="3px"/> </a>
+
 ### Featured Projects
 
 1. [Proyect 1](https://github.com/mansilladiego/MIPrimerSpringDiego)
