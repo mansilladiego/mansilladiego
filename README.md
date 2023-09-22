@@ -7,7 +7,7 @@
 - 📚 Lifelong Learner
 - 📖 Next Goal: Cisco CCNA Certification
 - 🌐 Exploring the exciting world of programming
-- 📧 Contact me: diegomansilla33@gmail.com
+- 📧 Contact me: **diegomansilla33@gmail.com**
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/diego-mansillagarrido)
 
 ### Featured Projects
